@@ -313,12 +313,12 @@
       <workItem from="1562547223962" duration="11508000" />
       <workItem from="1562589033123" duration="381000" />
       <workItem from="1562633555704" duration="11596000" />
-      <workItem from="1562814983040" duration="137000" />
+      <workItem from="1562814983040" duration="700000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108088000" />
+    <option name="totallyTimeSpent" value="108651000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
@@ -419,8 +419,8 @@
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Menu/VisitorsController.php" />
     <entry file="file://$PROJECT_DIR$/.env">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="12" lean-forward="false" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>

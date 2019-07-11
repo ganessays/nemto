@@ -1,0 +1,398 @@
+.nemto_the_show p {
+    text-align: justify;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif!important;
+}
+body, h1, h2, h3, p, ul, li, form {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif!important;
+}
+.container h1 {
+    color: #f58939;
+    font-size: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #006863;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+section.contact-section.area-padding label{
+    text-transform: uppercase !important;
+}
+.header_area .navbar .nav .nav-item.submenu ul{
+    min-width: max-content;
+}
+.area-padding-top {
+    background: #f8f9fa;
+    padding-top: 30px;
+}
+.single-footer-widget a{
+    padding: 10px;
+}
+.banner-area {
+    min-height: 400px;
+    background-image: url(..public/images/banner/home-banner.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.card-feature {
+    background: #f8f9fa;
+    border: 2px solid #fff;
+    box-shadow: -3px 11px 20px 0px rgba(33, 20, 106, 0.28);
+}
+.card-feature:hover {
+    background: white;
+    box-shadow: 0px 10px 20px 0px rgba(33, 20, 106, 0.1);
+}
+.area-heading{
+    margin-bottom: 1px;
+}
+section.about_tnv {
+    padding-top: 50px;
+}
+
+
+
+
+/*nemto*/
+ img {
+     -moz-user-select: none;
+      -webkit-user-select: none;
+     -ms-user-select: none;
+      user-select: none;
+      -webkit-user-drag: none;
+     user-drag: none;
+ }
+ .header_area .navbar .nav .nav-item .nav-link {
+     font: 600 10px/50px "Open Sans", sans-serif;
+     text-transform: uppercase;
+     color: #fff;
+     padding: 0px;
+     display: inline-block;
+     font-size: 14px;
+ }
+ .header_area .navbar {
+     background: #06b6a9;
+     padding: 0px;
+     border: 0px;
+     border-radius: 0px;
+ }
+ .header_area.navbar_fixed .main_menu .navbar .nav .nav-item .nav-link {
+     line-height: 50px;
+ }
+ .header_area + section, .header_area + row, .header_area + div {
+     margin-top: 160px;
+ }
+ .card-feature__title a {
+     font-size: 14px;
+     font-weight: 600;
+     color: #020a21;
+ }
+ a.registration_nemto {
+     background: #fff;
+     padding: 4px;
+     text-align: center;
+     font-size: 16px;
+     border-radius: 10px;
+ }
+ h4.card-feature__title {
+     text-transform: uppercase;
+     text-align: center;
+     font-size: 14px;
+     font-family: unset;
+     font-weight: bold;
+ }
+ i.nemto_icon {
+     text-align: center;
+ }
+ .card.card-feature.nemto.text-center.text-lg-left {
+     border: 2px solid #fff;
+     box-shadow: 0px 0px 15px 0px rgb(248, 144, 127);
+ }
+ .header_area .navbar .nav .nav-item.submenu ul .nav-item .nav-link {
+     background: #06b6a9;
+     text-transform: capitalize;
+     line-height: 32px;
+     color: #fff;
+     padding: 0px 10px;
+     transition: all 150ms linear;
+     display: block;
+     margin-right: 0px;
+ }
+ .header_area .navbar .nav .nav-item:hover .nav-link, .header_area .navbar .nav .nav-item.active .nav-link {
+     color: #fff;
+ }
+ .header_area .navbar .nav .nav-item.submenu ul .nav-item.nav-link {
+     line-height: 22px;
+     background: red;
+     color: #fff;
+     text-transform: capitalize;
+ }
+ .header_area .navbar .nav .nav-item {
+     margin-right: 25px;
+ }
+ .ml-auto, .mx-auto{
+     margin-left: auto!important;
+ }
+ .top_menu .header_social {
+     margin-left: 32px;
+     float: right;
+ }
+ .card-feature__icon i {
+     color: green;
+     font-size: 27px;
+     margin-right: 7px;
+ }
+
+ @media (max-device-width: 1824px) and (min-device-width: 1224px){
+     a.navbar-brand.logo_h {
+         display: none;
+     }
+ }
+
+.header_area .navbar .logo_h {
+    color: #fff;
+    height: 56px;
+    text-align: center;
+    line-height: 56px;
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+ a.nemto_logo img {
+     width: 269px;
+     margin-left: -71px;
+ }
+ .top_menu .header_social li a {
+     margin-bottom: -86px;
+     font-size: 13px;
+     color: #797979;
+     display: inline-block;
+     /* line-height: 42px; */
+     transition: all 300ms linear 0s;
+     z-index: 999999999;
+     position: relative;
+ }
+ .float-right.social_top_menu {
+     border-radius: 20px;
+     margin-right: -14px;
+     margin-bottom: 10px;
+     background: #f2eeea;
+     padding: 2px;
+ }
+ .top_menu .header_social li:last-child {
+     margin-right: 15px;
+ }
+ h3.date_venu {
+     font-size: 20px;
+     font-family: initial;
+     color: red;
+     margin-left: 110px;
+     padding: 5px 0px;
+ }
+ a.slider_title {
+     padding: 3px 10px;
+     background: #28a745;
+     border-radius: 10px;
+ }
+ .asia_summit p {
+     line-height: 20px;
+ }
+ .asia_summit h5 {
+     color: blue;
+ }
+ .card-feature_industries {
+     background: red;
+     border: 2px solid #fff;
+     box-shadow: -3px 11px 20px 0px rgba(33, 20, 106, 0.28);
+ }
+ .card-feature_industries {
+     width: 100%;
+     height: 193px;
+     padding: 10px;
+     border: 0;
+     border-radius: 0;
+     background: #fff;
+     transition: all 300ms linear 0s;
+ }
+ .industries h2{
+     color: #1d643b;
+     padding: 10px 0px;
+     text-align: center;
+ }
+ .industries{
+     padding: 30px 1px;
+ }
+ .form-contact .form-control {
+     border: 2px solid #ddd!important;
+     padding-left: 18px;
+     font-size: 13px;
+     background: transparent;
+     box-shadow: inset 0 0px 0px rgba(0,0,0,.00);
+ }
+ .red{
+     color: red;
+ }
+ b.form_headline{
+     color: #06b6a9;
+ }
+ .form-contact label {
+     font-weight: bold;
+     color: #495057;
+     font-size: 16px;
+ }
+ .form-contact .form-group {
+     margin-bottom: 5px;
+ }
+ .form-contact .form-control {
+     border: 1px solid #212529;
+     border-radius: 5px;
+     height: 40px;
+     padding-left: 18px;
+     font-size: 13px;
+     background: transparent;
+ }
+ .media.contact-info.form_right_div {
+     margin-bottom: 5px;
+     border: 2px solid #ddd;
+     padding: 6px;
+ }
+ .media.contact-info.form_right_div:hover {
+     margin-bottom: 5px;
+     background: red;
+     border: 2px solid #ddd;
+     padding: 6px;
+ }
+ .media.contact-info.form_right_div:hover {
+     background: #1d643b;
+     color: #fff;
+ }
+ .contact-info .media-body h3 {
+     padding-top: 5px;
+     font-size: 14px;
+     margin-bottom: 0;
+     color: #2a2a2a;
+ }
+ .contact-info .media-body h3:hover {
+     padding-top: 5px;
+     font-size: 14px;
+     margin-left: 30px;
+     margin-bottom: 0;
+     color: #fff;
+ }
+ .contact-info__icon i, .contact-info__icon span {
+     color: transparent;
+     font-size: 20px;
+ }
+ .contact-info__icon {
+     margin-left: -35px;
+     margin-right: 19px;
+ }
+ section.contact-section.area-padding {
+     margin-top: 84px;
+ }
+ .media-body.form_right h3 {
+     font-family: sans-serif;
+ }
+
+.container h2 {
+    padding-top: 22px;
+    margin: 10px 0;
+    color: #0ab9b1;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.nemto_contact_us span {
+    line-height: 0px;
+    font-weight: bold;
+    text-align: center;
+    color: green;
+}
+.footer-area .single-footer-widget h4 {
+    text-transform: uppercase;
+    color: #33363e;
+     margin-bottom: 2px;
+}
+a.venue_date img {
+    margin-top: -42px;
+}
+.nemto_contact_us p {
+    line-height: 21px;
+}
+.footer-area .single-footer-widget ul li {
+     margin-bottom: 1px;
+    list-style: none;
+}
+.contact_us{
+    padding: 20px 0px;
+}
+.nemto_contact_us h2 {
+    font-size: 17px;
+    padding-top: 10px;
+    line-height: 0;
+    color: #495057;
+}
+.nemto_contact_us b {
+    color: #495057;
+}
+
+@media (max-width: 991px) {
+    .navbar-toggler {
+        border: none;
+        border-radius: 0px;
+        padding: 0px;
+        cursor: pointer;
+        margin-top: 19px;
+        margin-bottom: 18px;
+    }
+}
+@media (max-width: 991px) {
+    .navbar-toggler span {
+        display: block;
+        width: 25px;
+        height: 3px;
+        background: #fff;
+        margin: auto;
+        margin-bottom: 4px;
+        transition: all 400ms linear;
+        cursor: pointer;
+    }
+}@media (max-width: 991px) {
+    section.contact-section.area-padding {
+        margin-top: 2px;
+    }
+    .header_area + section, .header_area + row, .header_area + div {
+        margin-top: 58px;
+    }
+}
+
+
+@media (max-width: 767px) {
+    .feature-section {
+        padding: 10px 0 30px;
+    }
+    .nemto_the_show td {
+        line-height: normal;
+        font-size: 10px;
+    }
+
+}
+
+
+.nemto_the_show ul li {
+    color: #323232;
+    line-height: 30px;
+    font-size: 14px;
+    list-style-type: square;
+    display: list-item;
+    padding-left: 10px;
+}
+.nemto_the_show td {
+    line-height: normal;
+}
